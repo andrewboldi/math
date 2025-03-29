@@ -1,0 +1,12 @@
+[package]
+name = "primes"
+version = "0.1.0"
+edition = "2018"
+
+[[bin]]
+name = "main"
+path = "main.rs"
+
+[dependencies]
+indicatif = "0.17.0"
+num_cpus = "1.13.0"
