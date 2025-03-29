@@ -1,0 +1,6 @@
+[submodule "Primes/Regular/v2a"]
+	path = Primes/Regular/v2a
+	url = https://github.com/andrewboldi/fibprimes
+[submodule "Primes/Primality/aks-primality-test"]
+	path = Primes/Primality/aks-primality-test
+	url = https://github.com/brhamon/aks-primality-test
